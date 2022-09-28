@@ -1,0 +1,18 @@
+{
+  "name": "60scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "credit score ranges ◄ Get Your FREE Credit Score credit score ranges, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "credit score ranges",
+    "credit card 550 credit score",
+    "what credit score needed to lease a car",
+    "credit score vs credit report",
+    "when credit score get updated"
+  ],
+  "repository": "https://github.com/truelestor/60scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
